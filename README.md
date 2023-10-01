@@ -112,3 +112,25 @@ input image:
 output image:
 
 ![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_ConvF.jpg)
+
+
+
+## 4-Box Filter
+1. Upload the desired image to content folder if you are using google colab.
+
+2. give the inputs sepertaed by space as: **image_name m n**
+
+**Note**: m and n are the properties of box filters
+
+
+---
+**Example**: img2.JPG 5 5
+
+
+input image:
+
+![Input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img2.JPG)
+
+output image:
+
+![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_boxF.jpg)
