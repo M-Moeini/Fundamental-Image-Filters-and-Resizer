@@ -63,7 +63,7 @@ output image:
 
 
 ---
-**Example1**: img1.JPG 2
+**Example1**: img1.JPG 1.65
 
 upsampling with scale factor of 1.65
 
@@ -79,7 +79,7 @@ output image:
 
 **Example2**: img1.JPG 0.28
 
-downsampling with scale factor of 0.7
+downsampling with scale factor of 0.28
 
 input image:
 
