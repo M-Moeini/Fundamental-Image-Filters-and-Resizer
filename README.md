@@ -88,3 +88,27 @@ input image:
 output image:
 
 ![Output_Image_Scaled_0.7x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_BLF_DS.jpg)
+
+
+## 3-Convolution Filters
+1. Upload the desired image to content folder if you are using google colab.
+
+2. The first input is the kernel. You can pass it such this: **[[1, 0, -1],[1, 0, -1],[1, 0, -1]]**
+3. The second input is the image name. You can pass it such this: **img1.JPG**
+
+
+
+**Note**: You can enter any kernel you want with any size
+
+
+---
+**Example**: kernel: [[1, 0, -1],[1, 0, -1],[1, 0, -1]], image name: img1.JPG
+
+
+input image:
+
+![Input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img1.JPG)
+
+output image:
+
+![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_ConvF.jpg)
