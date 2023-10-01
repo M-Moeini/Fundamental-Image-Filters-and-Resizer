@@ -16,15 +16,15 @@ Note: It is recommended to run the code on google colab or jupyterlab.
 ## 1-Nearest Neighbour Interpolation
 1. Upload the desired image to content folder if you are using google colab.
 
-2. give the inputs sepertaed by space as: **image_name scale sample_type**
+2. give the inputs sepertaed by space as: **image_name scale**
 
 
 
-**Note**: sample type is either **us** or **ds** which representing Upsampling and Downsampling respectively.
+**Note**: You can enter any number for sacle even float number like 1.35
 
 
 ---
-**Example1**: img1.JPG 2 us
+**Example1**: img1.JPG 2
 
 upsampling with scale factor of 2
 
@@ -35,3 +35,17 @@ input image:
 output image:
 
 ![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_NNI_US.jpg)
+
+---
+
+**Example2**: img1.JPG 0.7
+
+downsampling with scale factor of 0.7
+
+input image:
+
+![input_Image]
+
+output image:
+
+![Output_Image_0.7x]
