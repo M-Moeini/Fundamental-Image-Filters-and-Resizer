@@ -44,8 +44,8 @@ downsampling with scale factor of 0.7
 
 input image:
 
-![input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img1.JPG)
+![Input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img1.JPG)
 
 output image:
 
-![Output_Image_0.7x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_NNI_DS.jpg)
+![Output_Image_Scaled_0.7x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_NNI_DS.jpg)
