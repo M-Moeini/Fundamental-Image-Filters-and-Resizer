@@ -158,3 +158,27 @@ input image:
 output image:
 
 ![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_HPF.jpg)
+
+
+
+## 6-Bilateral Filter
+1. Upload the desired (noisy)image to content folder if you are using google colab.
+
+2. give the inputs sepertaed by space as: **image_name space_sigma color_sigma**
+  
+**Note:**Becarefull on the amount of sigma you are passing. The higher sigmas may blur the photo very much and can take long to run!
+
+
+
+---
+**Example**: img4.jpg 3 30
+
+
+input image:
+
+![Input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img4.jpg)
+
+output image:
+
+![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img4_BLF.jpg)
+
