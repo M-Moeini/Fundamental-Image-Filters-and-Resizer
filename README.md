@@ -14,11 +14,11 @@ Please install the followings:
 Note: It is recommended to run the code on google colab or jupyterlab.
 
 ## 1-Nearest Neighbour Interpolation
--Upload the desired image to content folder if you are using google colab.
+1. Upload the desired image to content folder if you are using google colab.
 
--give the inputs sepertaed by space as below:
+2. give the inputs sepertaed by space as below:
 
- image_name scale sample_type
+ -> image_name scale sample_type
 
 **Note**: sample type is either **us** or **ds** which representing Upsampling and Downsampling respectively.
 
