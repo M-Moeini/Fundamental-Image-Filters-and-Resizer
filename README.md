@@ -138,7 +138,7 @@ output image:
 
 
 
-## 4-Box Filter
+## 5-High Pass Filter Filter
 1. Upload the desired image to content folder if you are using google colab.
 
 2. use convolution filter function
