@@ -134,3 +134,27 @@ input image:
 output image:
 
 ![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_boxF.jpg)
+
+
+
+
+## 4-Box Filter
+1. Upload the desired image to content folder if you are using google colab.
+
+2. use convolution filter function
+  
+3. Pass your desired kernel for a high pass filter like: **[[0, -1, 0],[-1, 4, -1],[0, -1, 0]]** 
+
+
+
+---
+**Example**: kernel: [[0, -1, 0],[-1, 4, -1],[0, -1, 0]], image name: img1.JPG
+
+
+input image:
+
+![Input_Image](https://github.com/M-Moeini/Test/blob/main/Pictures/img2.JPG)
+
+output image:
+
+![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_HPF.jpg)
