@@ -13,7 +13,7 @@ Please install the followings:
 
 Note: It is recommended to run the code on google colab or jupyterlab.
 
-## Nearest Neighbour Interpolation
+## 1-Nearest Neighbour Interpolation
 -Upload the desired image to content folder if you are using google colab.
 
 -give the inputs sepertaed by space as below:
@@ -24,7 +24,7 @@ Note: It is recommended to run the code on google colab or jupyterlab.
 
 
 ---
-**example1**: img1.JPG 2 us
+**Example1**: img1.JPG 2 us
 
 upsampling with scale factor of 2
 
