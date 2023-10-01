@@ -111,7 +111,7 @@ input image:
 
 output image:
 
-![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_ConvF.jpg)
+![Output_Image_ConvF](https://github.com/M-Moeini/Test/blob/main/Pictures/img1_ConvF.jpg)
 
 
 
@@ -133,7 +133,7 @@ input image:
 
 output image:
 
-![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_boxF.jpg)
+![Output_Image_boxF](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_boxF.jpg)
 
 
 
@@ -157,7 +157,7 @@ input image:
 
 output image:
 
-![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_HPF.jpg)
+![Output_Image_HPF](https://github.com/M-Moeini/Test/blob/main/Pictures/img2_HPF.jpg)
 
 
 
@@ -180,5 +180,5 @@ input image:
 
 output image:
 
-![Output_Image_Scaled_2x](https://github.com/M-Moeini/Test/blob/main/Pictures/img4_BLF.jpg)
+![Output_Image_BLF](https://github.com/M-Moeini/Test/blob/main/Pictures/img4_BLF.JPG)
 
