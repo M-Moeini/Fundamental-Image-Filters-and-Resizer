@@ -18,7 +18,7 @@ Note: It is recommended to run the code on google colab or jupyterlab.
 
 2. give the inputs sepertaed by space as below:
 
-image_name scale sample_type
+  image_name scale sample_type
 
 **Note**: sample type is either **us** or **ds** which representing Upsampling and Downsampling respectively.
 
