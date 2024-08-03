@@ -1,4 +1,4 @@
-# Image Filters
+# Fundamental Image Filters and Resizer
 
 This code contains Nearest neighbour up/down sampler,Convolution filter, High pass filter, Box filter and Bilateral filter.
 
